@@ -39,7 +39,9 @@ https://colab.research.google.com/drive/1Md9ktZp0w0QnUsBDLQbnU7D5RSt7qSAV?usp=sh
 
 ## Google Forms (data was collected with)
 Minimal Layout Google Form: https://forms.gle/bbqssEr3qBVr5qfm7
+
 Scaffolded Layout Google Form: https://forms.gle/E2QvH75QEg6UqyxL8
+
 Gamified Layout Google Form: https://forms.gle/2NAn1St8tAPGHbZu6
 
 ---
