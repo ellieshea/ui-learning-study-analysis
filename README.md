@@ -28,6 +28,7 @@ No statistically significant differences were found between conditions on engage
 ## Files
 
 - `ui_learning_study_analysis.py` — full analysis pipeline (Python, run in Google Colab)
+- See /form_screenshots for images of each interface condition.
 
 ## Tools used
 
