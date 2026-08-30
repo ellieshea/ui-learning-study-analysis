@@ -28,7 +28,6 @@ No statistically significant differences were found between conditions on engage
 ## Files
 
 - `ui_learning_study_analysis.py` — full analysis pipeline (Python, run in Google Colab)
-- See /form_screenshots for images of each interface condition.
 
 ## Tools used
 
@@ -37,6 +36,11 @@ Python · pandas · scipy · statsmodels · seaborn · matplotlib · Google Cola
 ## Live notebook
 
 https://colab.research.google.com/drive/1Md9ktZp0w0QnUsBDLQbnU7D5RSt7qSAV?usp=sharing
+
+## Google Forms (data was collected with)
+Minimal Layout Google Form: https://forms.gle/bbqssEr3qBVr5qfm7
+Scaffolded Layout Google Form: https://forms.gle/E2QvH75QEg6UqyxL8
+Gamified Layout Google Form: https://forms.gle/2NAn1St8tAPGHbZu6
 
 ---
 *Independent research project by Ellie Shea. AI assistance was used in developing the data-cleaning and statistical analysis pipeline; all data collection, interpretation, and writing were conducted independently.*
